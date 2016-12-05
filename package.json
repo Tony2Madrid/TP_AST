@@ -1,0 +1,26 @@
+{
+  "name": "ast-test-2016",
+  "author": "antonia m",
+  "description": "test project",
+  "mail": "src/app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "coffee-script": "^1.11.1",
+    "express": "^4.14.0",
+    "jstransformer-coffee-script": "^1.1.0",
+    "level": "^1.5.0",
+    "level-ws": "0.0.1",
+    "mocha": "^3.1.1",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta6",
+    "should": "^11.1.0"
+  },
+  "devDepencies": {},
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "./bin/start",
+    "test": "./bin/test"
+  },
+  "license": "ISC"
+}
